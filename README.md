@@ -15,7 +15,7 @@
 
 **BTS SIO option SLAM** | Passionné par l'**architecture logicielle**, le **développement système** et les **performances**
 
-Je suis un développeur en formation spécialisé en **Golang** avec une expérience scolaire en **Kotlin** et d'autres technologies systèmes. Je crée des applications performantes et scalables.
+Je suis un développeur en formation spécialisé en **Golang** avec une expérience scolaire en **Kotlin** et d'autres technologies systèmes.
 
 🎓 **Formation** : BTS SIO SLAM (2025-2027) - Lycée Léonard de Vinci, Melun  
 🔍 **Disponibilité** : En recherche active de stage
