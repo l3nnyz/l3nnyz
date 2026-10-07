@@ -1,25 +1,62 @@
-<!-- Animated Header -->
 <div align="center">
-  <svg width="54" height="54" viewBox="0 0 24 24" aria-hidden="true" style="vertical-align:middle; color:#8b5cf6; margin-bottom:8px;">
-    <path d="M7.5 11.5V6.75A1.75 1.75 0 0 1 9.25 5h.5A1.75 1.75 0 0 1 11.5 6.75v4.75h1.5V4.75A1.75 1.75 0 0 1 14.75 3h.5A1.75 1.75 0 0 1 17 4.75v7.5h1.5V8.75A1.75 1.75 0 0 1 20.25 7h.5A1.75 1.75 0 0 1 22.5 8.75v8.5A7.75 7.75 0 0 1 14.75 25h-6.5A7.75 7.75 0 0 1 1 17.25v-3.25A1.75 1.75 0 0 1 2.75 12h.5A1.75 1.75 0 0 1 5 13.75V15.5h1.5V11.5h1Z" fill="currentColor" opacity="0.95"/>
-    <path d="M8 16.5V11.5h1.5v5H8Zm2.5 0V8.5h1.5v8h-1.5Zm2.5 0v-7h1.5v7h-1.5Zm2.5 0v-3.5h1.5v3.5h-1.5Z" fill="white" opacity="0.9"/>
-  </svg>
 
-# Bienvenue sur mon profil GitHub
+<!-- Animated gradient header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=8B5CF6&center=true&width=600&lines=Lenny+Zachelin;Développeur+Logiciel+%7C+Software+Developer;Passionné+par+l'architecture+logicielle" alt="Typing SVG" />
 
-### Lenny Zachelin - Développeur Logiciel
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-l3nnyz-black?style=for-the-badge&logo=github)](https://github.com/l3nnyz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Lenny%20Zachelin-4f46e5?style=for-the-badge&logo=globe)](https://lennyzachelin.pages.dev)
-[![Email](https://img.shields.io/badge/Email-lennyzachelin.pro%40gmail.com-4f46e5?style=for-the-badge&logo=gmail)](mailto:lennyzachelin.pro@gmail.com)
+### 🚀 À propos de moi
 
+Développeur passionné par **l'architecture logicielle** et les **systèmes performants**. 
+En formation **BTS SIO option SLAM** à Lycée Léonard de Vinci, Melun.
+
+**💼 En recherche active de stage** | **🎓 Formation 2025-2027**
+
+---
+
+### 💻 Stack Technologique
+
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+ 
 </div>
 
 ---
 
-**BTS SIO option SLAM** | Passionné par l'**architecture logicielle**.
+### 📊 Statistiques GitHub
 
-Je suis un développeur en formation spécialisé en **Golang** avec une expérience scolaire en **Kotlin** et d'autres technologies systèmes.
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l3nnyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=8b5cf6&text_color=e0e6fc" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnyz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=8b5cf6&text_color=e0e6fc" alt="Top Languages" />
+</div>
 
-🎓 **Formation** : BTS SIO SLAM (2025-2027) - Lycée Léonard de Vinci, Melun  
-🔍 **Disponibilité** : En recherche active de stage
+---
+
+### 🎯 En ce moment
+
+- 🏫 **Formation** : BTS SIO SLAM
+- 🔧 **Focus** : Golang et architecture microservices
+- 🤝 **À la recherche de** : Stage en développement logiciel
+
+---
+
+### 📞 Me Contacter
+
+<div>
+  <a href="https://github.com/l3nnyz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://lennyzachelin.pages.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:lennyzachelin.pro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=8B5CF6&center=true&width=600&lines=Toujours+en+apprentissage+%7C+Always+Learning" alt="Typing SVG" />
+
+</div>
