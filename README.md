@@ -7,7 +7,7 @@
 
 # Bienvenue sur mon profil GitHub
 
-### Lenny Zachelin - Développeur Logiciel & Systèmes
+### Lenny Zachelin - Développeur Logiciel
 
 [![GitHub](https://img.shields.io/badge/GitHub-l3nnyz-black?style=for-the-badge&logo=github)](https://github.com/l3nnyz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Lenny%20Zachelin-4f46e5?style=for-the-badge&logo=globe)](https://lennyzachelin.pages.dev)
@@ -17,7 +17,7 @@
 
 ---
 
-**BTS SIO option SLAM** | Passionné par l'**architecture logicielle**, le **développement système** et les **performances**
+**BTS SIO option SLAM** | Passionné par l'**architecture logicielle**.
 
 Je suis un développeur en formation spécialisé en **Golang** avec une expérience scolaire en **Kotlin** et d'autres technologies systèmes.
 
