@@ -9,7 +9,7 @@
 Développeur passionné par **l'architecture logicielle** et les **systèmes performants**.  
 En formation **BTS SIO option SLAM** au Lycée Léonard de Vinci, Melun.
 
-**📍 Basé en France** | **💼 En recherche active de stage** | **🎓 Formation 2025-2027**
+**💼 En recherche active de stage** | **🎓 Formation 2025-2027**
 
 ---
 
@@ -19,15 +19,6 @@ En formation **BTS SIO option SLAM** au Lycée Léonard de Vinci, Melun.
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
----
-
-### 📊 Statistiques GitHub
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=l3nnyz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=8b5cf6&text_color=e0e6fc" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3nnyz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=8b5cf6&text_color=e0e6fc" alt="Top Languages" />
 </p>
 
 ---
