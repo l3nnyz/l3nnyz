@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img">
+  <title>Lenny Zachelin — Développeur logiciel / Software Developer</title>
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="-900" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#00f0ff"/>
+      <stop offset="0.5" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#ff2e88"/>
+      <animate attributeName="x1" values="-900;900" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1800" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00f0ff"/>
+      <stop offset="1" stop-color="#ff2e88" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#1f2937" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.35"/>
+    </pattern>
+    <mask id="mfr1">
+      <rect x="255" y="125" width="0" height="40" fill="#fff">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite" keyTimes="0;0.27;0.44;0.52;1" values="0;380;380;0;0"/>
+      </rect>
+    </mask>
+    <mask id="men1">
+      <rect x="255" y="125" width="0" height="40" fill="#fff">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;0.77;0.94;1" values="0;0;330;330;0"/>
+      </rect>
+    </mask>
+    <mask id="mfr2">
+      <rect x="255" y="165" width="0" height="40" fill="#fff">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite" keyTimes="0;0.27;0.44;0.52;1" values="0;290;290;0;0"/>
+      </rect>
+    </mask>
+    <mask id="men2">
+      <rect x="255" y="165" width="0" height="40" fill="#fff">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite" keyTimes="0;0.5;0.77;0.94;1" values="0;0;250;250;0"/>
+      </rect>
+    </mask>
+  </defs>
+
+  <style>
+    .name {
+      font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 80px;
+    }
+    .sub {
+      font-family: "Courier New", Consolas, monospace;
+      font-size: 26px;
+      letter-spacing: 3px;
+      fill: #22d3ee;
+    }
+    .grid { animation: gridmove 4s linear infinite; }
+    .main { fill: url(#g); animation: jit 2.4s infinite steps(1); }
+    .r, .c { opacity: 0; }
+    .r { fill: #ff2e88; animation: gr 2.4s infinite steps(1); }
+    .c { fill: #00f0ff; animation: gc 2.4s infinite steps(1); }
+    .scanlines { animation: scanmove 6s linear infinite; }
+    .dot { fill: #7c3aed; animation: float 6s ease-in-out infinite; }
+    .underline { fill: url(#bar); animation: sweep 2.8s ease-in-out infinite; }
+
+    @keyframes gridmove { from { transform: translate(0, 0); } to { transform: translate(40px, 40px); } }
+    @keyframes scanmove { from { transform: translateY(0); } to { transform: translateY(4px); } }
+    @keyframes sweep {
+      0% { transform: translateX(-450px); }
+      100% { transform: translateX(450px); }
+    }
+    @keyframes float {
+      0%, 100% { transform: translate(0, 0); opacity: 0.2; }
+      50% { transform: translate(14px, -18px); opacity: 0.9; }
+    }
+    @keyframes jit {
+      0%, 84%, 100% { transform: translate(0, 0); }
+      85% { transform: translate(4px, 0) skewX(-6deg); }
+      87% { transform: translate(-4px, 1px); }
+      89% { transform: translate(0, 0); }
+      93% { transform: translate(2px, 0) skewX(3deg); }
+      94% { transform: translate(0, 0); }
+    }
+    @keyframes gr {
+      0%, 84%, 100% { opacity: 0; transform: translate(0, 0); }
+      85% { opacity: 0.85; transform: translate(-8px, 0); }
+      87% { opacity: 0.85; transform: translate(6px, -2px); }
+      89% { opacity: 0; }
+      93% { opacity: 0.6; transform: translate(-3px, 0); }
+      94% { opacity: 0; }
+    }
+    @keyframes gc {
+      0%, 84%, 100% { opacity: 0; transform: translate(0, 0); }
+      86% { opacity: 0.85; transform: translate(8px, 1px); }
+      88% { opacity: 0; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
+  </style>
+
+  <rect width="900" height="240" fill="#0b0b10" rx="12"/>
+  <g class="grid"><rect x="-40" y="-40" width="980" height="320" fill="url(#grid)" opacity="0.6"/></g>
+
+  <circle class="dot" cx="120" cy="60" r="3" style="animation-delay:0s"/>
+  <circle class="dot" cx="780" cy="50" r="2.5" style="animation-delay:1.5s"/>
+  <circle class="dot" cx="220" cy="225" r="2" style="animation-delay:3s"/>
+  <circle class="dot" cx="690" cy="222" r="3" style="animation-delay:4.5s"/>
+  <circle class="dot" cx="450" cy="25" r="2" style="animation-delay:2s"/>
+
+  <text class="name r" x="450" y="100" text-anchor="middle">Lenny Zachelin</text>
+  <text class="name c" x="450" y="100" text-anchor="middle">Lenny Zachelin</text>
+  <text class="name main" x="450" y="100" text-anchor="middle">Lenny Zachelin</text>
+
+  <text class="sub" x="260" y="150" mask="url(#mfr1)">Développeur logiciel</text>
+  <text class="sub" x="260" y="150" mask="url(#men1)">Software Developer</text>
+
+  <text class="sub" x="260" y="190" mask="url(#mfr2)">Développeur web</text>
+  <text class="sub" x="260" y="190" mask="url(#men2)">Web Developer</text>
+
+  <rect class="underline" x="0" y="212" width="900" height="2"/>
+
+  <rect class="scanlines" x="0" y="-4" width="900" height="248" fill="url(#scan)" opacity="0.5"/>
+</svg>
