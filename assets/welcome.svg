@@ -116,6 +116,10 @@
     @keyframes sheen { 0% { transform: translateX(-500px); } 60%, 100% { transform: translateX(500px); } }
     .fadein4 { animation: fade 1.5s ease-out 1.8s both; }
     .fadein5 { animation: fade 1.5s ease-out 2.2s both; }
+
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+    }
   </style>
 
   <g clip-path="url(#card)">
