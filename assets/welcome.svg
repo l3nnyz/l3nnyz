@@ -1098,15 +1098,16 @@
       <text class="feat" x="490" y="510"><tspan>▸</tspan> Horloge analogique et numérique</text>
       <text class="feat" x="490" y="533"><tspan>▸</tspan> Cartes par ville : décalage, jour / nuit</text>
       <text class="feat" x="490" y="556"><tspan>▸</tspan> Heure synchronisée via l’API timeapi.io</text>
+      <text class="feat" x="490" y="579"><tspan>▸</tspan> Carte du monde interactive avec l’heure des villes</text>
 
-      <rect x="490" y="584" width="40" height="26" rx="13" fill="#239120" fill-opacity="0.15" stroke="#4ade80" stroke-opacity="0.5"/>
-      <text class="pill mono" x="510" y="601" text-anchor="middle" style="fill:#86efac">C#</text>
-      <rect x="538" y="584" width="74" height="26" rx="13" fill="#512bd4" fill-opacity="0.2" stroke="#a78bfa" stroke-opacity="0.5"/>
-      <text class="pill mono" x="575" y="601" text-anchor="middle" style="fill:#c4b5fd">.NET 10</text>
-      <rect x="620" y="584" width="50" height="26" rx="13" fill="#0078d4" fill-opacity="0.18" stroke="#38bdf8" stroke-opacity="0.5"/>
-      <text class="pill mono" x="645" y="601" text-anchor="middle" style="fill:#7dd3fc">WPF</text>
-      <rect x="678" y="584" width="72" height="26" rx="13" fill="#db2777" fill-opacity="0.14" stroke="#f472b6" stroke-opacity="0.5"/>
-      <text class="pill mono" x="714" y="601" text-anchor="middle" style="fill:#f9a8d4">Fluent</text>
+      <rect x="490" y="607" width="40" height="26" rx="13" fill="#239120" fill-opacity="0.15" stroke="#4ade80" stroke-opacity="0.5"/>
+      <text class="pill mono" x="510" y="624" text-anchor="middle" style="fill:#86efac">C#</text>
+      <rect x="538" y="607" width="74" height="26" rx="13" fill="#512bd4" fill-opacity="0.2" stroke="#a78bfa" stroke-opacity="0.5"/>
+      <text class="pill mono" x="575" y="624" text-anchor="middle" style="fill:#c4b5fd">.NET 10</text>
+      <rect x="620" y="607" width="50" height="26" rx="13" fill="#0078d4" fill-opacity="0.18" stroke="#38bdf8" stroke-opacity="0.5"/>
+      <text class="pill mono" x="645" y="624" text-anchor="middle" style="fill:#7dd3fc">WPF</text>
+      <rect x="678" y="607" width="72" height="26" rx="13" fill="#db2777" fill-opacity="0.14" stroke="#f472b6" stroke-opacity="0.5"/>
+      <text class="pill mono" x="714" y="624" text-anchor="middle" style="fill:#f9a8d4">Fluent</text>
     </g>
   </g>
 </svg>
